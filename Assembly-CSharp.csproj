@@ -36,7 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\SpriteMovement.cs" />
+     <Compile Include="Assets\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Scripts\SpriteMovement.cs" />
      <None Include="Assets\Art plataformer style\readme.txt" />
      <None Include="Assets\Art plataformer style\Contact.txt" />
     <Reference Include="UnityEngine">
